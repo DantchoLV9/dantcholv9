@@ -2,7 +2,7 @@
 
 - 🌐 Web Developer
 - 🌱 I'm currently learning **React**.
-- 🔗 My <a href="www.dantcho.com">website</a>!
+- 🔗 My <a href="https://www.dantcho.com">website</a>!
 - 🖥️ All of my projects can be found <a href="https://github.com/DantchoLV9?tab=repositories">here</a>.
 
 I also do some 3D modeling. You can check out my work <a href="https://www.artstation.com/dantcho">here</a>.
